@@ -1,35 +1,17 @@
 # Introdução
-
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A reciclagem é uma importante ferramenta para a redução do impacto ambiental do lixo. Ao reciclar, evita-se o descarte de materiais que podem ser reutilizados, o que diminui a necessidade de extração de recursos naturais e a geração de gases de efeito estufa.
+O Brasil ocupa o 5º lugar no ranking de países que mais geram lixo. Portanto, grande parte do lixo gerado é descartado de forma incorreta. Tal situação é extremamente prejudicial para o meio ambiente e consequentemente para os seres vivos, além de gerar um impacto na economia. Visando mudanças nessa realidade, o intuito do projeto é desenvolver um site para conscientização dos cidadãos sobre o descarte seletivo de lixos e resíduos e unir pessoas que queiram reaproveitar materiais recicláveis, tal como pessoas que buscam descartá-los de forma correta.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
+Devido aos grandes níveis de consumo da população em geral, a produção de lixo também aumentou consideravelmente. Esse lixo não tem o tratamento adequado causando um impacto social e ambiental, também de grandes proporções. 
 
 ## Objetivos
-
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Através de um site promover a conscientização da separação adequada dos resíduos para promover a sustentabilidade e os benefícios que isso traz para a natureza.
+A coleta seletiva desses resíduos colabora com a sustentabilidade, diminuindo o efeito negativo causado pelo excesso de lixo, aliado a baixa taxa de reciclagem.
 
 ## Justificativa
-
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
-
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com mais de 12 milhões de habitantes, São Paulo, a maior metrópole da América Latina também é grande responsável pelos impactos ambientais. De acordo com dados da Prefeitura de São Paulo, a cidade produz, em média, 14,5 mil toneladas de lixo por dia. Desse total, cerca de 2,5 mil toneladas são recicladas, o que representa uma taxa de reciclagem de aproximadamente 17%. Pesquisas indicam que o Brasil perde cerca de R$14 bilhões anualmente com o descarte incorreto do lixo. Sendo que cerca de 10% (ou aproximadamente 1,5 bilhão) referentes somente a cidade de São Paulo.
+Buscando trazer benefícios para o mundo e colaborar com a preservação do meio ambiente, enfatizar a importância social e econômica do tema pouco divulgado e focar em uma ideia voltada para a sustentabilidade, visando gerar impacto positivo na sociedade e na natureza. Por esses motivos a equipe escolheu esse tema.
 
 ## Público-Alvo
-
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+A população como um todo pois o assunto afeta a sociedade em geral e principalmente jovens e adolescentes, pois eles são os maiores consumidores de mídias digitais.
