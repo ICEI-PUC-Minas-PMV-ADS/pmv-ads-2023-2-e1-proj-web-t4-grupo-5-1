@@ -1,10 +1,10 @@
 # Aplicação Web - EcoLurb
 
-`CURSO`
+`ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO INTEGRADO FRONT-END`
 
-`SEMESTRE`
+`EIXO 1`
 
 A aplicação web é um projeto focado em sustentabilidade social usando a reciclagem como método.
 
