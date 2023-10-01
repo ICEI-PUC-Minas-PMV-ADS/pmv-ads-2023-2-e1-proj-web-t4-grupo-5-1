@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+A aplicação web é um projeto focado em sustentabilidade social usando a reciclagem como método.
 
 ## Integrantes
 
