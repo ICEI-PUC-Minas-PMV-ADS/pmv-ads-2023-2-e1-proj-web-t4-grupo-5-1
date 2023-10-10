@@ -1,13 +1,13 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Neste segmento, a equipe responsável detalha a estrutura de execução das tarefas do projeto, e também as ferramentas aplicadas na realização dos códigos e demais artefatos.
 
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
+A metodologia escolhida para o desenvolvimento do projeto foi o SCRUM, pois como citado no artigo científico de Carvalho e Mello sobre a aplicação do Scrum (2009, p561), essa metodologia trás vários venefícios, tais como:
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+“melhoria na comunicação e aumento da colaboração entre envolvidos; melhoria da qualidade do produto produzido; aumento de produtividade da equipe; aumento da satisfação de clientes (diminuição de reclamações); aumento do retorno do investimento do projeto; aumento da motivação da equipe de desenvolvimento; diminuição dos custos de produção (mão de obra); diminuição no tempo gasto para terminar o projeto (prazo); diminuição do risco do projeto (menor possibilidade de insucesso).”
 
 ### Divisão de Papéis
 
