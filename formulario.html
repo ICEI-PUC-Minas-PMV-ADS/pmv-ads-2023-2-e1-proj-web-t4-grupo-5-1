@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" type="text/css" href="../styles/style.css">
+</head>
+
+<body>
+    <main>
+        <section>
+            <form action="" method="get" class="formulario">
+                <fieldset>
+                    <legend>
+                        <h3>Formulário - Programa Revitalize</h3>
+                    </legend>
+                    <article class="inputbox">
+                        <p>
+                            O Programa Revitalize, é um programa onde você participa doando material reciclável que não te serve
+                            e coleta material reciclável que tenha alguma finalidade para você. Dessa forma, criamos uma hub sustentável onde todos
+                            saem ganhando e principalmente, a natureza.
+                        </p>
+                        <label for="nome" class="inputlabel">
+                        <b>Nome completo:</b>
+                        </label>
+                        <input type="text" id="nome" class="input-user" placeholder="Digite seu nome completo." required>                    
+                        <label for="enderreco" class="inputlabel">
+                        <b>Endereço:</b>
+                        </label>
+                        <input type="text" name="endereco" id="" class="input-user" placeholder="Informe seu endereço." required>                    
+                        <label for="email" class="inputlabel">
+                        <b>E-mail:</b>
+                        </label>
+                        <input type="email" id="email" class="input-user" placeholder="Ex.: ecolurb@net.com" required>                    
+                        <label for="telefone" class="inputlabel">
+                        <b>Telefone:</b>
+                        </label>
+                        <input type="tel" class="input-user" placeholder="Ex.: (xx)xxxxxx-xxxxx" required>
+                        <label for="zona" class="inputlabel">
+                            <b>Escolha em qual região deseja coletar/depositar os materiais:</b>
+                        </label>
+                        <select class="input-user" id="zona" required>
+                            <option value="" selected>Selecione o posto de coleta</option>
+                            <option value="centro">Centro</option>
+                            <option value="zs">Zona Norte</option>
+                            <option value="zl">Zona Leste</option>
+                            <option value="zo">Zona Oeste</option>
+                            <option value="zo">Zona Sul</option>
+                        </select>
+                    </article>
+                    <article>
+                        <div class="checkbox">
+                            <aside>
+                                <b><p>Escolha o(s) material(ais) que deseja doar:</p></b>
+                                <input type="checkbox" name="" id="" required>
+                                <label for="metal" class="metal"><i>Metal</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="papelao-papel" class="metal"><i>Papel</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="vidro" class="metal"><i>Vidro</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="plastico" class="metal"><i>Plástico</i></label>
+                            </aside>
+                        </div>
+                        <div class="checkbox">
+                            <aside>
+                                <b><p>Escolha o(s) material(ais) que deseja coletar:</p></b>
+                                <input type="checkbox" name="" id=""required>
+                                <label for="metal" class="metal"><i>Metal</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="papel" class="metal"><i>Papel</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="vidro" class="metal"><i>Vidro</i></label>
+                            </aside>
+                            <aside>
+                                <input type="checkbox" name="" id="">
+                                <label for="plastico" class="metal"><i>Plástico</i></label>
+                            </aside>
+                            <input type="button" id="button" value="Enviar dados">
+                        </div>
+                    </article>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+    <footer class="rodape">
+        <address>
+
+        </address>
+    </footer>
+</body>
