@@ -1,14 +1,14 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,700;1,300;1,400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&family=Open+Sans:ital,wght@0,700;1,300;1,400&display=swap');
 
 * {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
 }
 
 body::after {
     content: "";
-    background-image: url("homenzinho.png.jpg");
+    background-image: url();
     opacity: 0.4;
     top: 0;
     left: 0;
@@ -21,8 +21,10 @@ body::after {
     background-size: 40%;
 }
 
+
 header {
-    background-color: #83ffbc87;
+    background-color: #83FFBC87;
+
 }
 
 ul {
@@ -33,12 +35,12 @@ ul {
 }
 
 li {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     margin: 0 120px;
     padding: 10px;
     border-radius: 8px;
-    background-color: #05aa5187;
+    background-color: #05AA5187;
 }
 
 li:hover {
@@ -52,6 +54,18 @@ a {
     border-radius: 10%;
 }
 
+.lixeiras {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lixeiras img {
+    width: 30%;
+    height: 30%;
+    margin-top: 30px;
+}
+
 .imagem-logo {
     display: flex;
     justify-content: center;
@@ -62,30 +76,43 @@ a {
     width: 30%;
     height: 30%;
     margin: 0 auto;
+
 }
 
 img {
     width: 100px;
     height: 100px;
     margin-inline-start: 40px;
+
 }
 
-h1,
-h2 {
+
+.h1-topico {
     text-align: center;
     margin: 2%;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 38px;
+    color: black;
+
+}
+
+
+h2 {
+    text-align: left;
+    margin: 4%;
+    font-family: 'Montserrat', sans-serif;
     font-size: 36px;
     color: black;
 }
 
 p {
-    margin: 0 3% 0 3%;
+    margin: 0 5% 0 5%;
     line-height: 32px;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     text-align: center;
 }
+
 
 .objetivos button {
     text-transform: uppercase;
@@ -93,14 +120,15 @@ p {
     justify-content: center;
     font-weight: bold;
     color: black;
-    background-color: #83ffbc87;
+    background-color: #83FFBC87;
     padding: 8px;
     margin: 25px auto 70px;
     cursor: pointer;
+
 }
 
 button:hover {
-    background-color: #08311b87;
+    background-color: #08311b87
 }
 
 footer {
@@ -125,11 +153,11 @@ footer p {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .socialmedia img {
     margin-top: 20px;
+    margin-right: 5px;
     width: 40px;
     height: 40px;
 }
@@ -143,5 +171,6 @@ footer p {
 
     li {
         margin: 10px 0;
+        margin-right: 15px;
     }
 }
