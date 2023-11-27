@@ -1,40 +1,60 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulário</title>
-    <link rel="stylesheet" type="text/css" href="../styles/style.css">
+    <title>Ecolurb - Formulário</title>
+    <link rel="stylesheet" type="text/css" href="formulario.css">
+    <link rel="shortcut icon" href="logo-simbolo.png" type="image/x-icon">
 </head>
+<div id="cabecalho">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="mapa.html">Postos de coleta</a></li>
+                <li><a href="conscientização.html">Guia de descarte</a></li>
+            </ul>
+        </nav>
+        <a href="index.html">
+            <img src="logo-simbolo.png" alt="Logo">
+        </a>
+    </header>
+</div>
 
 <body>
     <main>
         <section>
-            <form action="" method="get" class="formulario">
+            <form action="https://www.devmedia.com.br/codigos/formularios/aula8/
+            " method="get" class="formulario">
                 <fieldset>
                     <legend>
                         <h3>Formulário - Programa Revitalize</h3>
                     </legend>
                     <article class="inputbox">
                         <p>
-                            O Programa Revitalize, é um programa onde você participa doando material reciclável que não te serve
-                            e coleta material reciclável que tenha alguma finalidade para você. Dessa forma, criamos uma hub sustentável onde todos
+                            O Programa Revitalize, é um programa onde você participa doando material reciclável que não
+                            te serve
+                            e coleta material reciclável que tenha alguma finalidade para você. Dessa forma, criamos uma
+                            hub sustentável onde todos
                             saem ganhando e principalmente, a natureza.
                         </p>
                         <label for="nome" class="inputlabel">
-                        <b>Nome completo:</b>
+                            <b>Nome completo:</b>
                         </label>
-                        <input type="text" id="nome" class="input-user" placeholder="Digite seu nome completo." required>                    
+                        <input type="text" id="nome" class="input-user" placeholder="Digite seu nome completo."
+                            required>
                         <label for="enderreco" class="inputlabel">
-                        <b>Endereço:</b>
+                            <b>Endereço:</b>
                         </label>
-                        <input type="text" name="endereco" id="" class="input-user" placeholder="Informe seu endereço." required>                    
+                        <input type="text" name="endereco" id="" class="input-user" placeholder="Informe seu endereço."
+                            required>
                         <label for="email" class="inputlabel">
-                        <b>E-mail:</b>
+                            <b>E-mail:</b>
                         </label>
-                        <input type="email" id="email" class="input-user" placeholder="Ex.: ecolurb@net.com" required>                    
+                        <input type="email" id="email" class="input-user" placeholder="Ex.: ecolurb@net.com" required>
                         <label for="telefone" class="inputlabel">
-                        <b>Telefone:</b>
+                            <b>Telefone:</b>
                         </label>
                         <input type="tel" class="input-user" placeholder="Ex.: (xx)xxxxxx-xxxxx" required>
                         <label for="zona" class="inputlabel">
@@ -52,7 +72,9 @@
                     <article>
                         <div class="checkbox">
                             <aside>
-                                <b><p>Escolha o(s) material(ais) que deseja doar:</p></b>
+                                <b>
+                                    <p>Escolha o(s) material(ais) que deseja doar:</p>
+                                </b>
                                 <input type="checkbox" name="" id="" required>
                                 <label for="metal" class="metal"><i>Metal</i></label>
                             </aside>
@@ -71,8 +93,10 @@
                         </div>
                         <div class="checkbox">
                             <aside>
-                                <b><p>Escolha o(s) material(ais) que deseja coletar:</p></b>
-                                <input type="checkbox" name="" id=""required>
+                                <b>
+                                    <p>Escolha o(s) material(ais) que deseja coletar:</p>
+                                </b>
+                                <input type="checkbox" name="" id="" required>
                                 <label for="metal" class="metal"><i>Metal</i></label>
                             </aside>
                             <aside>
@@ -94,9 +118,13 @@
             </form>
         </section>
     </main>
-    <footer class="rodape">
-        <address>
-
-        </address>
+    <footer>
+        <div class="socialmedia">
+            <a href="https://www.facebook.com/" target="_blank"><img src="facebook.svg" alt="facebook ecolurb"></a>
+            <a href="https://www.instagram.com/" target="_blank"><img src="instagram-icon.svg" alt="instagram ecolurb"></a>
+            <a href="https://web.whatsapp.com/" target="_blank"><img src="whatsapp-icon.svg" alt="whatsapp ecolurb"></a>
+            <a href="https://twitter.com/" target="_blank"><img src="twitter-icon.svg" alt="twitter ecolurb"></a>
+        </div>
+        <p>&reg; Ecolurb - &copy; Todos os direitos reservados</p>
     </footer>
 </body>
